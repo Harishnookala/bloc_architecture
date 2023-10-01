@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "870269142939",
+    "project_id": "blocarchitecture-e3d36",
+    "storage_bucket": "blocarchitecture-e3d36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870269142939:android:19c08877a43a05b24c033e",
+        "android_client_info": {
+          "package_name": "com.example.bloc_architecture"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "870269142939-uj9otf0b29mhf7le7nli4iha9tglm7f1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bloc_architecture",
+            "certificate_hash": "cae735bd1cf65f36c30a4487c8e9c306779dc248"
+          }
+        },
+        {
+          "client_id": "870269142939-em33mf9g1avu9o7nm8hpc4hh8ub49rvb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt6XFipWRC344K3ViLO4prFLV5Pd78Mts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "870269142939-em33mf9g1avu9o7nm8hpc4hh8ub49rvb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
